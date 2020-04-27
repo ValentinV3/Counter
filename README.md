@@ -1,3 +1,7 @@
+## Netlify link
+https://practical-euler-855b30.netlify.app/
+
+_______
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
